@@ -1,0 +1,6 @@
+# Install CUDA-enabled PyTorch separately from the official PyTorch wheel index.
+transformers>=5.0
+peft>=0.21
+datasets>=5.0
+accelerate>=1.15
+bitsandbytes>=0.50
